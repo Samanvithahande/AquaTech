@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <rect width="100" height="100" rx="20" fill="#0f766e"/>
+  <!-- Water waves -->
+  <path d="M15 65C25 60 35 70 45 65C55 60 65 70 75 65C85 60 90 65 90 65" stroke="#5eead4" stroke-width="6" stroke-linecap="round"/>
+  <path d="M10 77C20 72 30 82 40 77C50 72 60 82 70 77C80 72 90 77 90 77" stroke="#2dd4bf" stroke-width="5" stroke-linecap="round" opacity="0.7"/>
+  <!-- Fish icon -->
+  <path d="M68 36C68 36 54 26 38 34C28 39 24 48 20 45C22 51 28 53 38 52C54 50 68 36 68 36Z" fill="#ffffff"/>
+  <circle cx="58" cy="38" r="3" fill="#0f766e"/>
+  <!-- Alert droplet -->
+  <path d="M72 18C72 18 64 28 64 33C64 37.4 67.6 41 72 41C76.4 41 80 37.4 80 33C80 28 72 18 72 18Z" fill="#f59e0b"/>
+  <circle cx="72" cy="33" r="2" fill="#ffffff"/>
+</svg>

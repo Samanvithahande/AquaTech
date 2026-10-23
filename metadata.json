@@ -1,0 +1,5 @@
+{
+  "name": "Aquaculture Alerts & Risk Monitoring",
+  "description": "Real-time aquaculture water-quality assessment, ML disease diagnosis, and multilingual alert system connecting React + Vite with FastAPI models.",
+  "requestFramePermissions": []
+}

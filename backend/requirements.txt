@@ -1,0 +1,14 @@
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+python-multipart>=0.0.6
+pydantic>=2.0.0
+numpy>=1.23.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+joblib>=1.2.0
+pillow>=9.5.0
+tensorflow>=2.12.0
+# Optional: needed only for automatic category detection when API clients omit the species field.
+# The included frontend sends a selected category, so the Keras disease model can run without CLIP.
+# torch>=2.0.0
+# transformers>=4.30.0
